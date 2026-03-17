@@ -1,4 +1,4 @@
-# clase_01.R
+# clase_01.R para probar GIT
 
 # ----------------------------------------
 # 1: Introducción a la programación
